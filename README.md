@@ -1,3 +1,3 @@
 # acml-project
-Mohamed atef: 40-4541
-Youssef wally: 40-7641
+Mohamed Atef: 40-4541
+Youssef Wally: 40-7641
